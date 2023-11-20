@@ -1,0 +1,6 @@
+data_files: [
+    '<path to train file>',
+    '<path to val file>',
+]
+
+pretrained_ckpt: '<path to mPLUGOwl-7B-Video>'
