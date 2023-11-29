@@ -1,6 +1,6 @@
 # Videocon: Robust Video-Language Alignment via Contrast Captions
 
-[[Paper]](https://arxiv.org/abs/2311.10111) [[Project Page]](https://video-con.github.io/) [[Dataset 🤗]](https://huggingface.co/datasets/videocon/videocon) [[Model 🤗]](https://huggingface.co/videocon/owl-con/tree/main)
+[[Paper]](https://arxiv.org/abs/2311.10111) [[Project Page]](https://video-con.github.io/) [[Demo 🤗]](https://huggingface.co/spaces/hbXNov/owl-con-demo)[[Dataset 🤗]](https://huggingface.co/datasets/videocon/videocon) [[Model 🤗]](https://huggingface.co/videocon/owl-con/tree/main)
 
 
 **Authors:** [Hritik Bansal (UCLA)](https://sites.google.com/view/hbansal), [Yonatan Bitton (Google)](https://yonatanbitton.github.io/), [Idan Szpektor (Google)](https://www.linkedin.com/in/idan-szpektor-916183?originalSubdomain=il), [Kai-Wei Chang (UCLA)](https://web.cs.ucla.edu/~kwchang/), [Aditya Grover (UCLA)](https://aditya-grover.github.io/)
