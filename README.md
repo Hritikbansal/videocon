@@ -1,4 +1,4 @@
-# Videocon: Robust Video-Language Alignment via Contrast Captions
+# Videocon: Robust Video-Language Alignment via Contrast Captions (Accepted to CVPR 2024)
 
 [[Paper]](https://arxiv.org/abs/2311.10111) [[Project Page]](https://video-con.github.io/) [[Demo 🤗]](https://huggingface.co/spaces/hbXNov/owl-con-demo)[[Dataset 🤗]](https://huggingface.co/datasets/videocon/videocon) [[Model 🤗]](https://huggingface.co/videocon/owl-con/tree/main)
 
