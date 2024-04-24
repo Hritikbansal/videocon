@@ -95,7 +95,7 @@ def main():
                 target_modules=r'.*language_model.*\.(q_proj|v_proj|k_proj|o_proj|gate_proj|down_proj|up_proj)', 
                 inference_mode=True, 
                 r=args.lora_r, 
-                lora_alpha=16, 
+                lora_alpha=32, 
                 lora_dropout=0.05
             )
         else:
@@ -103,7 +103,7 @@ def main():
                 target_modules=r'.*language_model.*\.(q_proj|v_proj|k_proj|o_proj)', 
                 inference_mode=True, 
                 r=args.lora_r, 
-                lora_alpha=16, 
+                lora_alpha=32, 
                 lora_dropout=0.05
             )
 
